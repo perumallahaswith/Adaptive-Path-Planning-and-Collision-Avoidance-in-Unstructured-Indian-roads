@@ -1,0 +1,12 @@
+{
+  "scenario": "highway_merge",
+  "total_duration_sec": 14.0,
+  "sample_time_sec": 0.05,
+  "total_timesteps": 280,
+  "avg_replanning_latency_ms": 2.61,
+  "p99_replanning_latency_ms": 3.86,
+  "max_replanning_latency_ms": 18.5,
+  "min_clearance_margin_m": 9.2,
+  "total_collisions": 0,
+  "status": "PASS"
+}

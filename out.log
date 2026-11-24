@@ -1,0 +1,8 @@
+==================================================================
+  SIH-26037: 3D REAL-TIME AUTONOMOUS DRIVING SIMULATOR & CV HUD  
+==================================================================
+[*] Local HTTP Server running at http://127.0.0.1:8000
+[>] Opening 3D Simulator: http://127.0.0.1:8000/simulator/index.html
+[+] Direct file access: file:///C:/Users/Haswith/OneDrive/Desktop/sih-2026/simulator/index.html
+
+[+] Press Ctrl+C in this terminal to stop.

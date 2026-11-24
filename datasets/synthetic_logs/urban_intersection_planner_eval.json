@@ -1,0 +1,12 @@
+{
+  "scenario": "urban_intersection",
+  "total_duration_sec": 12.0,
+  "sample_time_sec": 0.05,
+  "total_timesteps": 240,
+  "avg_replanning_latency_ms": 2.65,
+  "p99_replanning_latency_ms": 4.1,
+  "max_replanning_latency_ms": 18.5,
+  "min_clearance_margin_m": 9.89,
+  "total_collisions": 0,
+  "status": "PASS"
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "timestamp": 0.0,
+    "ego_state": [
+      0.6,
+      -1.75,
+      0.0,
+      12.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 45.0,
+        "y": 3.0,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 45.25,
+        "radar": {
+          "range_m": 45.239,
+          "azimuth_deg": 6.03,
+          "range_rate_mps": -11.114
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 0.25,
+    "ego_state": [
+      3.6,
+      -1.75,
+      0.0,
+      12.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 45.2,
+        "y": 2.7,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 42.434,
+        "radar": {
+          "range_m": 42.406,
+          "azimuth_deg": 6.02,
+          "range_rate_mps": -11.298
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 0.5,
+    "ego_state": [
+      6.6,
+      -1.75,
+      0.0,
+      12.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 45.4,
+        "y": 2.4,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 39.618,
+        "radar": {
+          "range_m": 39.604,
+          "azimuth_deg": 6.01,
+          "range_rate_mps": -11.196
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 0.75,
+    "ego_state": [
+      9.6,
+      -1.75,
+      0.0,
+      12.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 45.6,
+        "y": 2.1,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 36.802,
+        "radar": {
+          "range_m": 36.745,
+          "azimuth_deg": 6.0,
+          "range_rate_mps": -11.119
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1.0,
+    "ego_state": [
+      12.6,
+      -1.75,
+      0.0,
+      12.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 45.8,
+        "y": 1.8,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 33.986,
+        "radar": {
+          "range_m": 33.86,
+          "azimuth_deg": 6.0,
+          "range_rate_mps": -11.228
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1.25,
+    "ego_state": [
+      15.6,
+      -1.75,
+      0.0,
+      12.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 46.0,
+        "y": 1.5,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 31.17,
+        "radar": {
+          "range_m": 31.119,
+          "azimuth_deg": 5.98,
+          "range_rate_mps": -11.282
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1.5,
+    "ego_state": [
+      18.6,
+      -1.75,
+      0.0,
+      12.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 46.2,
+        "y": 1.2,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 28.354,
+        "radar": {
+          "range_m": 28.401,
+          "azimuth_deg": 5.97,
+          "range_rate_mps": -11.251
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1.75,
+    "ego_state": [
+      21.6,
+      -1.75,
+      0.0,
+      12.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 46.4,
+        "y": 0.9,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 25.538,
+        "radar": {
+          "range_m": 25.592,
+          "azimuth_deg": 5.96,
+          "range_rate_mps": -11.2
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 2.0,
+    "ego_state": [
+      24.6,
+      -1.75,
+      0.0,
+      12.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 46.6,
+        "y": 0.6,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 22.722,
+        "radar": {
+          "range_m": 22.613,
+          "azimuth_deg": 5.94,
+          "range_rate_mps": -11.156
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 2.25,
+    "ego_state": [
+      27.586,
+      -1.75,
+      0.0,
+      11.88
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 46.8,
+        "y": 0.3,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 19.914,
+        "radar": {
+          "range_m": 19.711,
+          "azimuth_deg": 5.91,
+          "range_rate_mps": -11.113
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 2.5,
+    "ego_state": [
+      30.512,
+      -1.75,
+      0.0,
+      11.56
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 47.0,
+        "y": 0.0,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 17.155,
+        "radar": {
+          "range_m": 17.167,
+          "azimuth_deg": 5.85,
+          "range_rate_mps": -10.883
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 2.75,
+    "ego_state": [
+      33.328,
+      -1.748,
+      0.0045,
+      11.04
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 47.2,
+        "y": -0.3,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 14.497,
+        "radar": {
+          "range_m": 14.566,
+          "azimuth_deg": 5.74,
+          "range_rate_mps": -10.395
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 3.0,
+    "ego_state": [
+      35.984,
+      -1.712,
+      0.0166,
+      10.32
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 47.4,
+        "y": -0.6,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 11.985,
+        "radar": {
+          "range_m": 11.826,
+          "azimuth_deg": 4.41,
+          "range_rate_mps": -9.666
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 3.25,
+    "ego_state": [
+      38.441,
+      -1.662,
+      0.0244,
+      9.526
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 47.6,
+        "y": -0.9,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 9.666,
+        "radar": {
+          "range_m": 9.637,
+          "azimuth_deg": 3.34,
+          "range_rate_mps": -8.841
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 3.5,
+    "ego_state": [
+      40.721,
+      -1.582,
+      0.0433,
+      8.875
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 47.8,
+        "y": -1.2,
+        "vx": 0.8,
+        "vy": -1.2,
+        "distance": 7.533,
+        "radar": {
+          "range_m": 7.671,
+          "azimuth_deg": 0.84,
+          "range_rate_mps": -8.23
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 3.75,
+    "ego_state": [
+      42.855,
+      -1.456,
+      0.0709,
+      8.345
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 48.0,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 5.562,
+        "radar": {
+          "range_m": 5.389,
+          "azimuth_deg": -3.86,
+          "range_rate_mps": -8.438
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 4.0,
+    "ego_state": [
+      44.866,
+      -1.273,
+      0.1047,
+      7.912
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 48.2,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 3.732,
+        "radar": {
+          "range_m": 3.633,
+          "azimuth_deg": -8.44,
+          "range_rate_mps": -7.853
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 4.25,
+    "ego_state": [
+      46.766,
+      -1.059,
+      0.112,
+      7.449
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 48.4,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 2.043,
+        "radar": {
+          "range_m": 2.002,
+          "azimuth_deg": -17.68,
+          "range_rate_mps": -7.557
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 4.5,
+    "ego_state": [
+      48.522,
+      -0.862,
+      0.112,
+      6.787
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 48.6,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 0.73,
+        "radar": {
+          "range_m": 0.681,
+          "azimuth_deg": -61.75,
+          "range_rate_mps": -6.854
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 4.75,
+    "ego_state": [
+      50.084,
+      -0.686,
+      0.112,
+      5.925
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 48.8,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 1.26,
+        "radar": {
+          "range_m": 1.121,
+          "azimuth_deg": -148.14,
+          "range_rate_mps": -6.045
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 5.0,
+    "ego_state": [
+      51.403,
+      -0.538,
+      0.112,
+      4.894
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 49.0,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 2.354,
+        "radar": {
+          "range_m": 2.324,
+          "azimuth_deg": -163.02,
+          "range_rate_mps": -5.016
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 5.25,
+    "ego_state": [
+      52.48,
+      -0.416,
+      0.1154,
+      3.991
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 49.2,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 3.26,
+        "radar": {
+          "range_m": 3.353,
+          "azimuth_deg": -167.42,
+          "range_rate_mps": -4.199
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 5.5,
+    "ego_state": [
+      53.361,
+      -0.307,
+      0.1282,
+      3.285
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 49.4,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 3.975,
+        "radar": {
+          "range_m": 3.935,
+          "azimuth_deg": -170.08,
+          "range_rate_mps": -3.372
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 5.75,
+    "ego_state": [
+      54.096,
+      -0.208,
+      0.1346,
+      2.779
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 49.6,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 4.541,
+        "radar": {
+          "range_m": 4.504,
+          "azimuth_deg": -171.43,
+          "range_rate_mps": -2.783
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 6.0,
+    "ego_state": [
+      54.735,
+      -0.122,
+      0.1346,
+      2.473
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 49.8,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 5.002,
+        "radar": {
+          "range_m": 4.85,
+          "azimuth_deg": -171.92,
+          "range_rate_mps": -2.45
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 6.25,
+    "ego_state": [
+      55.328,
+      -0.042,
+      0.1346,
+      2.367
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 50.0,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 5.407,
+        "radar": {
+          "range_m": 5.339,
+          "azimuth_deg": -172.24,
+          "range_rate_mps": -2.304
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 6.5,
+    "ego_state": [
+      55.925,
+      0.039,
+      0.1346,
+      2.462
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 50.2,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 5.806,
+        "radar": {
+          "range_m": 5.851,
+          "azimuth_deg": -172.51,
+          "range_rate_mps": -2.365
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 6.75,
+    "ego_state": [
+      56.575,
+      0.127,
+      0.1346,
+      2.756
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 50.4,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 6.249,
+        "radar": {
+          "range_m": 6.14,
+          "azimuth_deg": -172.79,
+          "range_rate_mps": -2.65
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 7.0,
+    "ego_state": [
+      57.325,
+      0.229,
+      0.1346,
+      3.228
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 50.6,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 6.784,
+        "radar": {
+          "range_m": 6.884,
+          "azimuth_deg": -173.14,
+          "range_rate_mps": -3.116
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 7.25,
+    "ego_state": [
+      58.199,
+      0.347,
+      0.1346,
+      3.728
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 50.8,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 7.441,
+        "radar": {
+          "range_m": 7.489,
+          "azimuth_deg": -173.54,
+          "range_rate_mps": -3.605
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 7.5,
+    "ego_state": [
+      59.197,
+      0.482,
+      0.1346,
+      4.228
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 51.0,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 8.224,
+        "radar": {
+          "range_m": 8.374,
+          "azimuth_deg": -173.97,
+          "range_rate_mps": -4.083
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 7.75,
+    "ego_state": [
+      60.319,
+      0.634,
+      0.1346,
+      4.728
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 51.2,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 9.13,
+        "radar": {
+          "range_m": 9.157,
+          "azimuth_deg": -174.4,
+          "range_rate_mps": -4.534
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 8.0,
+    "ego_state": [
+      61.565,
+      0.803,
+      0.1346,
+      5.228
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 51.4,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 10.162,
+        "radar": {
+          "range_m": 10.036,
+          "azimuth_deg": -174.82,
+          "range_rate_mps": -5.054
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 8.25,
+    "ego_state": [
+      62.932,
+      0.988,
+      0.1346,
+      5.701
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 51.6,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 11.318,
+        "radar": {
+          "range_m": 11.211,
+          "azimuth_deg": -175.21,
+          "range_rate_mps": -5.518
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 8.5,
+    "ego_state": [
+      64.409,
+      1.188,
+      0.1346,
+      6.151
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 51.8,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 12.586,
+        "radar": {
+          "range_m": 12.585,
+          "azimuth_deg": -175.57,
+          "range_rate_mps": -6.009
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 8.75,
+    "ego_state": [
+      66.007,
+      1.405,
+      0.1346,
+      6.651
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 52.0,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 13.973,
+        "radar": {
+          "range_m": 13.891,
+          "azimuth_deg": -175.9,
+          "range_rate_mps": -6.505
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 9.0,
+    "ego_state": [
+      67.729,
+      1.638,
+      0.1346,
+      7.151
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 52.2,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 15.486,
+        "radar": {
+          "range_m": 15.497,
+          "azimuth_deg": -176.2,
+          "range_rate_mps": -6.983
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 9.25,
+    "ego_state": [
+      69.575,
+      1.888,
+      0.1346,
+      7.651
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 52.4,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 17.124,
+        "radar": {
+          "range_m": 16.984,
+          "azimuth_deg": -176.48,
+          "range_rate_mps": -7.502
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 9.5,
+    "ego_state": [
+      71.544,
+      2.155,
+      0.1346,
+      8.151
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 52.6,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 18.887,
+        "radar": {
+          "range_m": 18.944,
+          "azimuth_deg": -176.72,
+          "range_rate_mps": -8.001
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 9.75,
+    "ego_state": [
+      73.638,
+      2.438,
+      0.1346,
+      8.651
+    ],
+    "tracks": [
+      {
+        "agent_id": 501,
+        "class_name": "cattle",
+        "class_id": 4,
+        "x": 52.8,
+        "y": -1.5,
+        "vx": 0.0,
+        "vy": 0.0,
+        "distance": 20.775,
+        "radar": {
+          "range_m": 20.727,
+          "azimuth_deg": -176.95,
+          "range_rate_mps": -8.436
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "cattle"
+        }
+      }
+    ]
+  }
+]

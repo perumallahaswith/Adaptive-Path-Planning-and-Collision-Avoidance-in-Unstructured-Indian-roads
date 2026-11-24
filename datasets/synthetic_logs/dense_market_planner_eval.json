@@ -1,0 +1,12 @@
+{
+  "scenario": "dense_market",
+  "total_duration_sec": 16.0,
+  "sample_time_sec": 0.05,
+  "total_timesteps": 320,
+  "avg_replanning_latency_ms": 2.59,
+  "p99_replanning_latency_ms": 4.23,
+  "max_replanning_latency_ms": 18.5,
+  "min_clearance_margin_m": 2.12,
+  "total_collisions": 0,
+  "status": "PASS"
+}

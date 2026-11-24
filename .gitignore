@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+tmp/
+output/
+
+# MATLAB-generated files
+*.asv
+slprj/
+codegen/
+
+# OS metadata
+.DS_Store
+Thumbs.db

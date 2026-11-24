@@ -1,0 +1,12 @@
+{
+  "scenario": "cattle_crossing",
+  "total_duration_sec": 10.0,
+  "sample_time_sec": 0.05,
+  "total_timesteps": 200,
+  "avg_replanning_latency_ms": 2.62,
+  "p99_replanning_latency_ms": 4.09,
+  "max_replanning_latency_ms": 18.5,
+  "min_clearance_margin_m": 0.65,
+  "total_collisions": 0,
+  "status": "PASS"
+}

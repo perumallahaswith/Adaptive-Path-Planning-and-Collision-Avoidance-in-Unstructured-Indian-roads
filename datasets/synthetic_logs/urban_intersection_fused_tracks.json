@@ -1,0 +1,2354 @@
+[
+  {
+    "timestamp": 0.0,
+    "ego_state": [
+      0.4,
+      0.0,
+      0.0,
+      8.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 0.0,
+        "y": -40.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 40.0,
+        "radar": {
+          "range_m": 40.067,
+          "azimuth_deg": -90.0,
+          "range_rate_mps": -5.104
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 40.0,
+        "y": 2.0,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 40.05,
+        "radar": {
+          "range_m": 40.114,
+          "azimuth_deg": 2.86,
+          "range_rate_mps": -12.96
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 0.25,
+    "ego_state": [
+      2.4,
+      0.0,
+      0.0,
+      8.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 0.75,
+        "y": -38.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 38.77,
+        "radar": {
+          "range_m": 38.535,
+          "azimuth_deg": -91.85,
+          "range_rate_mps": -5.068
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 38.75,
+        "y": 2.625,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 36.844,
+        "radar": {
+          "range_m": 36.894,
+          "azimuth_deg": 4.09,
+          "range_rate_mps": -12.961
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 0.5,
+    "ego_state": [
+      4.4,
+      0.0,
+      0.0,
+      8.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 1.5,
+        "y": -37.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 37.583,
+        "radar": {
+          "range_m": 37.555,
+          "azimuth_deg": -93.81,
+          "range_rate_mps": -5.011
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 37.5,
+        "y": 3.25,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 33.657,
+        "radar": {
+          "range_m": 33.671,
+          "azimuth_deg": 5.54,
+          "range_rate_mps": -12.995
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 0.75,
+    "ego_state": [
+      6.4,
+      0.0,
+      0.0,
+      8.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 2.25,
+        "y": -36.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 36.443,
+        "radar": {
+          "range_m": 36.527,
+          "azimuth_deg": -95.91,
+          "range_rate_mps": -5.02
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 36.25,
+        "y": 3.875,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 30.497,
+        "radar": {
+          "range_m": 30.476,
+          "azimuth_deg": 7.3,
+          "range_rate_mps": -13.029
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1.0,
+    "ego_state": [
+      8.4,
+      0.0,
+      0.0,
+      8.0
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 3.0,
+        "y": -35.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 35.355,
+        "radar": {
+          "range_m": 35.256,
+          "azimuth_deg": -98.13,
+          "range_rate_mps": -5.058
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 35.0,
+        "y": 4.5,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 27.372,
+        "radar": {
+          "range_m": 27.37,
+          "azimuth_deg": 9.46,
+          "range_rate_mps": -12.939
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1.25,
+    "ego_state": [
+      10.392,
+      0.0,
+      0.0,
+      7.92
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 3.75,
+        "y": -33.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 34.323,
+        "radar": {
+          "range_m": 33.977,
+          "azimuth_deg": -100.48,
+          "range_rate_mps": -4.883
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 33.75,
+        "y": 5.125,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 24.301,
+        "radar": {
+          "range_m": 24.241,
+          "azimuth_deg": 12.18,
+          "range_rate_mps": -12.916
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1.5,
+    "ego_state": [
+      12.334,
+      0.0,
+      0.0,
+      7.64
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 4.5,
+        "y": -32.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 33.343,
+        "radar": {
+          "range_m": 33.171,
+          "azimuth_deg": -102.91,
+          "range_rate_mps": -4.779
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 32.5,
+        "y": 5.75,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 21.337,
+        "radar": {
+          "range_m": 21.244,
+          "azimuth_deg": 15.63,
+          "range_rate_mps": -12.636
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 1.75,
+    "ego_state": [
+      14.176,
+      0.0,
+      0.0,
+      7.16
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 5.25,
+        "y": -31.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 32.403,
+        "radar": {
+          "range_m": 32.43,
+          "azimuth_deg": -105.33,
+          "range_rate_mps": -4.297
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 31.25,
+        "y": 6.375,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 18.561,
+        "radar": {
+          "range_m": 18.688,
+          "azimuth_deg": 20.09,
+          "range_rate_mps": -12.307
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 2.0,
+    "ego_state": [
+      15.878,
+      0.0,
+      0.0,
+      6.582
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 6.0,
+        "y": -30.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 31.483,
+        "radar": {
+          "range_m": 31.506,
+          "azimuth_deg": -107.66,
+          "range_rate_mps": -3.811
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 30.0,
+        "y": 7.0,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 16.058,
+        "radar": {
+          "range_m": 16.055,
+          "azimuth_deg": 25.84,
+          "range_rate_mps": -11.671
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 2.25,
+    "ego_state": [
+      17.45,
+      0.01,
+      0.0161,
+      6.105
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 6.75,
+        "y": -28.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 30.576,
+        "radar": {
+          "range_m": 30.531,
+          "azimuth_deg": -110.5,
+          "range_rate_mps": -3.109
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 28.75,
+        "y": 7.625,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 13.884,
+        "radar": {
+          "range_m": 13.751,
+          "azimuth_deg": 32.66,
+          "range_rate_mps": -11.207
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 2.5,
+    "ego_state": [
+      18.915,
+      0.053,
+      0.0373,
+      5.717
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 7.5,
+        "y": -27.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 29.706,
+        "radar": {
+          "range_m": 29.632,
+          "azimuth_deg": -113.93,
+          "range_rate_mps": -2.788
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 27.5,
+        "y": 8.25,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 12.085,
+        "radar": {
+          "range_m": 12.232,
+          "azimuth_deg": 40.85,
+          "range_rate_mps": -10.786
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 2.75,
+    "ego_state": [
+      20.294,
+      0.117,
+      0.0513,
+      5.4
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 8.25,
+        "y": -26.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 28.864,
+        "radar": {
+          "range_m": 28.777,
+          "azimuth_deg": -116.89,
+          "range_rate_mps": -2.478
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 26.25,
+        "y": 8.875,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 10.757,
+        "radar": {
+          "range_m": 10.509,
+          "azimuth_deg": 51.83,
+          "range_rate_mps": -10.412
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 3.0,
+    "ego_state": [
+      21.602,
+      0.19,
+      0.0572,
+      5.141
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 9.0,
+        "y": -25.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 28.039,
+        "radar": {
+          "range_m": 27.951,
+          "azimuth_deg": -119.4,
+          "range_rate_mps": -2.126
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 25.0,
+        "y": 9.5,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 10.015,
+        "radar": {
+          "range_m": 10.082,
+          "azimuth_deg": 65.32,
+          "range_rate_mps": -10.208
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 3.25,
+    "ego_state": [
+      22.853,
+      0.264,
+      0.0612,
+      4.931
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 9.75,
+        "y": -23.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 27.226,
+        "radar": {
+          "range_m": 27.261,
+          "azimuth_deg": -121.61,
+          "range_rate_mps": -2.014
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 23.75,
+        "y": 10.125,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 9.942,
+        "radar": {
+          "range_m": 10.093,
+          "azimuth_deg": 79.97,
+          "range_rate_mps": -9.955
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 3.5,
+    "ego_state": [
+      24.06,
+      0.341,
+      0.0645,
+      4.798
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 10.5,
+        "y": -22.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 26.428,
+        "radar": {
+          "range_m": 26.285,
+          "azimuth_deg": -123.96,
+          "range_rate_mps": -1.725
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 22.5,
+        "y": 10.75,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 10.507,
+        "radar": {
+          "range_m": 10.402,
+          "azimuth_deg": 93.52,
+          "range_rate_mps": -9.691
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 3.75,
+    "ego_state": [
+      25.261,
+      0.419,
+      0.0645,
+      4.842
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 11.25,
+        "y": -21.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 25.661,
+        "radar": {
+          "range_m": 25.633,
+          "azimuth_deg": -126.15,
+          "range_rate_mps": -1.933
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 21.25,
+        "y": 11.375,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 11.601,
+        "radar": {
+          "range_m": 11.755,
+          "azimuth_deg": 105.26,
+          "range_rate_mps": -9.861
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 4.0,
+    "ego_state": [
+      26.488,
+      0.498,
+      0.0645,
+      4.993
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 12.0,
+        "y": -20.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 24.945,
+        "radar": {
+          "range_m": 24.988,
+          "azimuth_deg": -128.5,
+          "range_rate_mps": -2.006
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 20.0,
+        "y": 12.0,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 13.099,
+        "radar": {
+          "range_m": 13.017,
+          "azimuth_deg": 114.74,
+          "range_rate_mps": -10.047
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 4.25,
+    "ego_state": [
+      27.782,
+      0.582,
+      0.0645,
+      5.345
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 12.75,
+        "y": -18.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 24.312,
+        "radar": {
+          "range_m": 24.397,
+          "azimuth_deg": -131.09,
+          "range_rate_mps": -2.265
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 18.75,
+        "y": 12.625,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 14.909,
+        "radar": {
+          "range_m": 14.832,
+          "azimuth_deg": 122.31,
+          "range_rate_mps": -10.311
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 4.5,
+    "ego_state": [
+      29.188,
+      0.673,
+      0.0645,
+      5.823
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 13.5,
+        "y": -17.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 23.804,
+        "radar": {
+          "range_m": 23.884,
+          "azimuth_deg": -134.0,
+          "range_rate_mps": -2.623
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 17.5,
+        "y": 13.25,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 16.987,
+        "radar": {
+          "range_m": 17.084,
+          "azimuth_deg": 128.44,
+          "range_rate_mps": -10.769
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 4.75,
+    "ego_state": [
+      30.702,
+      0.771,
+      0.0645,
+      6.225
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 14.25,
+        "y": -16.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 23.443,
+        "radar": {
+          "range_m": 23.495,
+          "azimuth_deg": -137.21,
+          "range_rate_mps": -3.1
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 16.25,
+        "y": 13.875,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 19.293,
+        "radar": {
+          "range_m": 19.259,
+          "azimuth_deg": 133.44,
+          "range_rate_mps": -11.1
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 5.0,
+    "ego_state": [
+      32.306,
+      0.874,
+      0.0645,
+      6.553
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 15.0,
+        "y": -15.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 23.229,
+        "radar": {
+          "range_m": 23.388,
+          "azimuth_deg": -140.66,
+          "range_rate_mps": -3.422
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 15.0,
+        "y": 14.5,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 21.783,
+        "radar": {
+          "range_m": 21.861,
+          "azimuth_deg": 137.51,
+          "range_rate_mps": -11.48
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 5.25,
+    "ego_state": [
+      33.981,
+      0.983,
+      0.0645,
+      6.82
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 15.75,
+        "y": -13.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 23.162,
+        "radar": {
+          "range_m": 23.106,
+          "azimuth_deg": -144.27,
+          "range_rate_mps": -3.7
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 13.75,
+        "y": 15.125,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 24.419,
+        "radar": {
+          "range_m": 24.379,
+          "azimuth_deg": 140.85,
+          "range_rate_mps": -11.762
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 5.5,
+    "ego_state": [
+      35.716,
+      1.095,
+      0.0645,
+      7.038
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 16.5,
+        "y": -12.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 23.24,
+        "radar": {
+          "range_m": 23.058,
+          "azimuth_deg": -147.97,
+          "range_rate_mps": -3.955
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 12.5,
+        "y": 15.75,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 27.171,
+        "radar": {
+          "range_m": 27.083,
+          "azimuth_deg": 143.6,
+          "range_rate_mps": -11.963
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 5.75,
+    "ego_state": [
+      37.499,
+      1.21,
+      0.0645,
+      7.215
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 17.25,
+        "y": -11.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 23.458,
+        "radar": {
+          "range_m": 23.36,
+          "azimuth_deg": -151.68,
+          "range_rate_mps": -4.151
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 11.25,
+        "y": 16.375,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 30.016,
+        "radar": {
+          "range_m": 30.067,
+          "azimuth_deg": 145.9,
+          "range_rate_mps": -12.155
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 6.0,
+    "ego_state": [
+      39.322,
+      1.328,
+      0.0645,
+      7.36
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 18.0,
+        "y": -10.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 23.809,
+        "radar": {
+          "range_m": 23.79,
+          "azimuth_deg": -155.35,
+          "range_rate_mps": -4.424
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 10.0,
+        "y": 17.0,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 32.935,
+        "radar": {
+          "range_m": 32.8,
+          "azimuth_deg": 147.84,
+          "range_rate_mps": -12.257
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 6.25,
+    "ego_state": [
+      41.176,
+      1.448,
+      0.0645,
+      7.478
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 18.75,
+        "y": -8.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 24.287,
+        "radar": {
+          "range_m": 24.324,
+          "azimuth_deg": -158.93,
+          "range_rate_mps": -4.413
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 8.75,
+        "y": 17.625,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 35.915,
+        "radar": {
+          "range_m": 35.943,
+          "azimuth_deg": 149.49,
+          "range_rate_mps": -12.444
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 6.5,
+    "ego_state": [
+      43.057,
+      1.569,
+      0.0645,
+      7.575
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 19.5,
+        "y": -7.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 24.881,
+        "radar": {
+          "range_m": 24.859,
+          "azimuth_deg": -162.38,
+          "range_rate_mps": -4.538
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 7.5,
+        "y": 18.25,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 38.944,
+        "radar": {
+          "range_m": 38.897,
+          "azimuth_deg": 150.9,
+          "range_rate_mps": -12.563
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 6.75,
+    "ego_state": [
+      44.959,
+      1.692,
+      0.0645,
+      7.653
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 20.25,
+        "y": -6.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 25.583,
+        "radar": {
+          "range_m": 25.635,
+          "azimuth_deg": -165.67,
+          "range_rate_mps": -4.598
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 6.25,
+        "y": 18.875,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 42.012,
+        "radar": {
+          "range_m": 42.116,
+          "azimuth_deg": 152.12,
+          "range_rate_mps": -12.583
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 7.0,
+    "ego_state": [
+      46.878,
+      1.816,
+      0.0645,
+      7.717
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 21.0,
+        "y": -5.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 26.382,
+        "radar": {
+          "range_m": 26.473,
+          "azimuth_deg": -168.78,
+          "range_rate_mps": -4.695
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 5.0,
+        "y": 19.5,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 45.114,
+        "radar": {
+          "range_m": 45.053,
+          "azimuth_deg": 153.19,
+          "range_rate_mps": -12.729
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 7.25,
+    "ego_state": [
+      48.811,
+      1.941,
+      0.0645,
+      7.769
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 21.75,
+        "y": -3.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 27.268,
+        "radar": {
+          "range_m": 27.253,
+          "azimuth_deg": -171.71,
+          "range_rate_mps": -4.858
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 3.75,
+        "y": 20.125,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 48.242,
+        "radar": {
+          "range_m": 48.161,
+          "azimuth_deg": 154.13,
+          "range_rate_mps": -12.854
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 7.5,
+    "ego_state": [
+      50.756,
+      2.067,
+      0.0645,
+      7.812
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 22.5,
+        "y": -2.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 28.234,
+        "radar": {
+          "range_m": 28.327,
+          "azimuth_deg": -174.44,
+          "range_rate_mps": -4.701
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 2.5,
+        "y": 20.75,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 51.392,
+        "radar": {
+          "range_m": 51.48,
+          "azimuth_deg": 154.95,
+          "range_rate_mps": -12.773
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 7.75,
+    "ego_state": [
+      52.71,
+      2.193,
+      0.0645,
+      7.847
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 23.25,
+        "y": -1.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 29.269,
+        "radar": {
+          "range_m": 29.003,
+          "azimuth_deg": -176.99,
+          "range_rate_mps": -4.834
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 1.25,
+        "y": 21.375,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 54.561,
+        "radar": {
+          "range_m": 54.421,
+          "azimuth_deg": 155.69,
+          "range_rate_mps": -12.883
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 8.0,
+    "ego_state": [
+      54.672,
+      2.32,
+      0.0645,
+      7.875
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 24.0,
+        "y": 0.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 30.366,
+        "radar": {
+          "range_m": 30.357,
+          "azimuth_deg": -179.36,
+          "range_rate_mps": -4.813
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": 0.0,
+        "y": 22.0,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 57.745,
+        "radar": {
+          "range_m": 57.714,
+          "azimuth_deg": 156.35,
+          "range_rate_mps": -12.819
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 8.25,
+    "ego_state": [
+      56.64,
+      2.447,
+      0.0645,
+      7.898
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 24.75,
+        "y": 1.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 31.518,
+        "radar": {
+          "range_m": 31.393,
+          "azimuth_deg": -181.57,
+          "range_rate_mps": -4.905
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -1.25,
+        "y": 22.625,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 60.943,
+        "radar": {
+          "range_m": 60.879,
+          "azimuth_deg": 156.94,
+          "range_rate_mps": -12.881
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 8.5,
+    "ego_state": [
+      58.614,
+      2.575,
+      0.0645,
+      7.917
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 25.5,
+        "y": 2.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 32.719,
+        "radar": {
+          "range_m": 32.671,
+          "azimuth_deg": -183.61,
+          "range_rate_mps": -4.878
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -2.5,
+        "y": 23.25,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 64.15,
+        "radar": {
+          "range_m": 64.061,
+          "azimuth_deg": 157.48,
+          "range_rate_mps": -12.875
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 8.75,
+    "ego_state": [
+      60.591,
+      2.702,
+      0.0645,
+      7.932
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 26.25,
+        "y": 3.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 33.962,
+        "radar": {
+          "range_m": 34.065,
+          "azimuth_deg": 174.49,
+          "range_rate_mps": -4.99
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -3.75,
+        "y": 23.875,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 67.367,
+        "radar": {
+          "range_m": 67.231,
+          "azimuth_deg": 157.96,
+          "range_rate_mps": -12.89
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 9.0,
+    "ego_state": [
+      62.572,
+      2.83,
+      0.0645,
+      7.945
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 27.0,
+        "y": 5.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 35.244,
+        "radar": {
+          "range_m": 35.255,
+          "azimuth_deg": 172.73,
+          "range_rate_mps": -4.916
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -5.0,
+        "y": 24.5,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 70.592,
+        "radar": {
+          "range_m": 70.561,
+          "azimuth_deg": 158.4,
+          "range_rate_mps": -12.961
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 9.25,
+    "ego_state": [
+      64.556,
+      2.959,
+      0.0645,
+      7.955
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 27.75,
+        "y": 6.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 36.559,
+        "radar": {
+          "range_m": 36.625,
+          "azimuth_deg": 171.1,
+          "range_rate_mps": -4.907
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -6.25,
+        "y": 25.125,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 73.823,
+        "radar": {
+          "range_m": 73.699,
+          "azimuth_deg": 158.81,
+          "range_rate_mps": -12.951
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 9.5,
+    "ego_state": [
+      66.541,
+      3.087,
+      0.0645,
+      7.963
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 28.5,
+        "y": 7.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 37.905,
+        "radar": {
+          "range_m": 37.858,
+          "azimuth_deg": 169.58,
+          "range_rate_mps": -4.915
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -7.5,
+        "y": 25.75,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 77.06,
+        "radar": {
+          "range_m": 76.941,
+          "azimuth_deg": 159.18,
+          "range_rate_mps": -12.879
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 9.75,
+    "ego_state": [
+      68.529,
+      3.215,
+      0.0645,
+      7.97
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 29.25,
+        "y": 8.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 39.277,
+        "radar": {
+          "range_m": 39.401,
+          "azimuth_deg": 168.16,
+          "range_rate_mps": -4.895
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -8.75,
+        "y": 26.375,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 80.301,
+        "radar": {
+          "range_m": 80.239,
+          "azimuth_deg": 159.52,
+          "range_rate_mps": -12.964
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 10.0,
+    "ego_state": [
+      70.518,
+      3.344,
+      0.0645,
+      7.976
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 30.0,
+        "y": 10.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 40.673,
+        "radar": {
+          "range_m": 40.75,
+          "azimuth_deg": 166.85,
+          "range_rate_mps": -4.954
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -10.0,
+        "y": 27.0,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 83.547,
+        "radar": {
+          "range_m": 83.447,
+          "azimuth_deg": 159.84,
+          "range_rate_mps": -12.906
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 10.25,
+    "ego_state": [
+      72.509,
+      3.473,
+      0.0645,
+      7.98
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 30.75,
+        "y": 11.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 42.09,
+        "radar": {
+          "range_m": 42.146,
+          "azimuth_deg": 165.62,
+          "range_rate_mps": -4.972
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -11.25,
+        "y": 27.625,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 86.796,
+        "radar": {
+          "range_m": 86.745,
+          "azimuth_deg": 160.13,
+          "range_rate_mps": -12.969
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 10.5,
+    "ego_state": [
+      74.5,
+      3.601,
+      0.0645,
+      7.984
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 31.5,
+        "y": 12.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 43.527,
+        "radar": {
+          "range_m": 43.706,
+          "azimuth_deg": 164.47,
+          "range_rate_mps": -5.001
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -12.5,
+        "y": 28.25,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 90.048,
+        "radar": {
+          "range_m": 90.055,
+          "azimuth_deg": 160.4,
+          "range_rate_mps": -12.941
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 10.75,
+    "ego_state": [
+      76.492,
+      3.73,
+      0.0645,
+      7.987
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 32.25,
+        "y": 13.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 44.98,
+        "radar": {
+          "range_m": 44.816,
+          "azimuth_deg": 163.4,
+          "range_rate_mps": -4.966
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -13.75,
+        "y": 28.875,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 93.303,
+        "radar": {
+          "range_m": 93.23,
+          "azimuth_deg": 160.65,
+          "range_rate_mps": -12.98
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 11.0,
+    "ego_state": [
+      78.485,
+      3.859,
+      0.0645,
+      7.989
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 33.0,
+        "y": 15.0,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 46.449,
+        "radar": {
+          "range_m": 46.511,
+          "azimuth_deg": 162.39,
+          "range_rate_mps": -4.951
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -15.0,
+        "y": 29.5,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 96.56,
+        "radar": {
+          "range_m": 96.634,
+          "azimuth_deg": 160.89,
+          "range_rate_mps": -13.05
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 11.25,
+    "ego_state": [
+      80.479,
+      3.988,
+      0.0645,
+      7.991
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 33.75,
+        "y": 16.25,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 47.932,
+        "radar": {
+          "range_m": 48.026,
+          "azimuth_deg": 161.45,
+          "range_rate_mps": -4.981
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -16.25,
+        "y": 30.125,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 99.82,
+        "radar": {
+          "range_m": 99.698,
+          "azimuth_deg": 161.11,
+          "range_rate_mps": -12.916
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 11.5,
+    "ego_state": [
+      82.473,
+      4.117,
+      0.0645,
+      7.993
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 34.5,
+        "y": 17.5,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 49.428,
+        "radar": {
+          "range_m": 49.398,
+          "azimuth_deg": 160.56,
+          "range_rate_mps": -5.047
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -17.5,
+        "y": 30.75,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 103.081,
+        "radar": {
+          "range_m": 103.032,
+          "azimuth_deg": 161.31,
+          "range_rate_mps": -12.945
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": 11.75,
+    "ego_state": [
+      84.467,
+      4.245,
+      0.0645,
+      7.994
+    ],
+    "tracks": [
+      {
+        "agent_id": 201,
+        "class_name": "autorickshaw",
+        "class_id": 2,
+        "x": 35.25,
+        "y": 18.75,
+        "vx": 3.0,
+        "vy": 5.0,
+        "distance": 50.935,
+        "radar": {
+          "range_m": 50.846,
+          "azimuth_deg": 159.73,
+          "range_rate_mps": -4.933
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "autorickshaw"
+        }
+      },
+      {
+        "agent_id": 202,
+        "class_name": "two_wheeler",
+        "class_id": 3,
+        "x": -18.75,
+        "y": 31.375,
+        "vx": -5.0,
+        "vy": 2.5,
+        "distance": 106.344,
+        "radar": {
+          "range_m": 106.418,
+          "azimuth_deg": 161.51,
+          "range_rate_mps": -12.861
+        },
+        "vision": {
+          "confidence": 0.95,
+          "class_name": "two_wheeler"
+        }
+      }
+    ]
+  }
+]
